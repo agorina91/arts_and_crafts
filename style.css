@@ -4,6 +4,33 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: "./img/pattern.jpeg";
+}
+
+#second-header {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: mediumspringgreen;
+}
+
+.prices {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.paragraph {
+    font-family: Helvetica;
+}
+
+#third-header {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color: lightcoral;
 }
 
