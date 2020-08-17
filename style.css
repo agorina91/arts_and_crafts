@@ -6,12 +6,15 @@
     text-align: center;
 }
 
-#second-header {
+.other-header {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
-    text-align: left;
+    text-align: left;   
+}
+
+#second {
     background-color: mediumspringgreen;
 }
 
@@ -25,12 +28,10 @@
     font-family: Helvetica;
 }
 
-#third-header {
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
-    text-align: left;
-    background-color: lightcoral;
+#third {
+       background-color: lightcoral;
 }
 
+#fourth {
+    background-color: skyblue;
+}
